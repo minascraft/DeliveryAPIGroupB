@@ -1,1 +1,13 @@
-{"main":"deliveryappgroupb.raml","name":"DeliveryAPIGroupB","description":null,"classifier":"raml","tags":[],"projectId":"9f48477a-5d3d-4a11-b552-344efc95a4de"}
+{
+  "main" : "deliveryappgroupb.raml",
+  "name" : "DeliveryAPIGroupB",
+  "classifier" : "raml",
+  "tags" : [ ],
+  "groupId" : "3af40421-aeeb-40f6-be57-75fa74807111",
+  "assetId" : "deliveryapigroupb",
+  "version" : "1.0.0",
+  "apiVersion" : "",
+  "dependencies" : [ ],
+  "description" : null,
+  "projectId" : "9f48477a-5d3d-4a11-b552-344efc95a4de"
+}
